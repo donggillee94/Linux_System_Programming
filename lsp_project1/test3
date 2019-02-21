@@ -1,0 +1,5 @@
+test_make3 : test_code3.o
+	gcc -o $@ test_code3.o
+
+test_code3.o : test_code3.c
+	gcc -c $*.c

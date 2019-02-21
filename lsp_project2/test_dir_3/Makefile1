@@ -1,0 +1,5 @@
+target2 = macro11111
+$(target):dependancy2	asdasdas	asdasda
+	c -o $(target1)
+target3 = macro
+include Makefile2

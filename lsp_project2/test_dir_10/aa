@@ -1,0 +1,13 @@
+1 = 2
+#3 = 5
+a : b
+	echo "aa" $(a)
+	echo "kk"
+
+ab : c 
+	echo "bb"
+c : a b
+	echo "cc"
+d : d
+	echo "dd"
+5 =6

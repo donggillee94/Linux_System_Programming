@@ -1,0 +1,3 @@
+write to statndard output
+before fork
+pid = 2363, glob_val = 11, loc_val = 101

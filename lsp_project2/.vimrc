@@ -1,0 +1,14 @@
+set backspace=eol,start,indent
+set autoread
+set autoindent
+set cindent
+set smartindent
+set ruler
+set number
+set sm
+set tabstop=4
+set shiftwidth=4
+set title
+set incsearch
+syntax on
+set tags=/usr/include/tagg

@@ -1,0 +1,35 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+DBGMSG	d_ex3.c	14;"	d	file:
+DBGMSG	d_ex3.c	9;"	d	file:
+DBGMSG_PREFX	d_ex3.c	7;"	d	file:
+NUM	bug.c	2;"	d	file:
+PI	d_ex2.c	4;"	d	file:
+REDE	d_ex3.c	6;"	d	file:
+REDS	d_ex3.c	5;"	d	file:
+__DEBUG__	d_ex3.c	2;"	d	file:
+a	w_ex5.c	/^int a[2][2] = {0, 1, 2, 3};$/;"	v
+b	w_ex5.c	/^int b[2][2] = { {0, 1}, {2, 3}};$/;"	v
+f	d_ex4.c	/^void f()$/;"	f
+f	w_ex10.c	/^void f(const char *str)$/;"	f
+foo	w_ex3.c	/^int foo()$/;"	f
+main	bug.c	/^int main()$/;"	f
+main	d_ex1.c	/^int main()$/;"	f
+main	d_ex2.c	/^int main()$/;"	f
+main	d_ex4.c	/^int main()$/;"	f
+main	w_ex1.c	/^int main(int argc, char *argv[])$/;"	f
+main	w_ex10.c	/^int main()$/;"	f
+main	w_ex2.c	/^int main(void)$/;"	f
+main	w_ex3.c	/^int main(void)$/;"	f
+main	w_ex4.c	/^int main(void)$/;"	f
+main	w_ex5.c	/^int main(void)$/;"	f
+main	w_ex6.c	/^int main(void)$/;"	f
+main	w_ex7.c	/^int main(void)$/;"	f
+main	w_ex8.c	/^int main(int argc, char *argv[])$/;"	f
+main	w_ex9.c	/^int main()$/;"	f
+score	bug.c	/^int score[NUM];$/;"	v
+sum	bug.c	/^int sum(int cnt)$/;"	f
